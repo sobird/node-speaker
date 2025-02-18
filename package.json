@@ -1,5 +1,5 @@
 {
-  "name": "speaker",
+  "name": "@sobird/speaker",
   "version": "0.5.5",
   "license": "(MIT AND LGPL-2.1-only)",
   "description": "Output PCM audio data to the speakers",
